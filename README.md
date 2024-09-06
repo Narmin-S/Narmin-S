@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/narmin-v-serrano/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+Fun fact: My favorite hobby is 3D animation. :)
