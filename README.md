@@ -39,5 +39,6 @@ Here are some ideas to get you started:
 
 
 
-Fun fact: 
+## Fun fact: 
+
 My favorite hobby is 3D animation. :)
