@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 <div align="center">
 <table>
   <tr>
-    <td>
+    <!--<td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narmin-S&hide=html&hide_border=true&layout=compact&langs_count=8&theme=nightowl" alt="Top Languages">
-    </td>
+    </td>-->
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Narmin-S&theme=nightowl&hide_border=true" alt="Repos Per Language">
     </td>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Narmin-S&hide_border=true&border_radius=15&show_icons=true&theme=nightowl" alt="Val's GitHub stats">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Narmin-S&hide_border=true&border_radius=15&show_icons=true&theme=nightowl" alt="Val's GitHub stats">-->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narmin-S&theme=nightowl&hide_border=true">
 
